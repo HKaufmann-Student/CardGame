@@ -1,0 +1,34 @@
+MP3, Part B: Crazy Eights!
+
+1. Hayden Kaufmann
+   2402222
+   hkaufmann@chapman.edu
+   CPSC 231-03
+   MP3, Part B: Crazy Eights!
+
+2) Card.java
+   Deck.java
+   Dealer.java
+   TestCards.java
+   Player.java
+   Game.java
+   Simulation.java
+
+3) N/A
+
+4) N/A
+
+5) javac Card.java
+
+   javac Deck.java
+
+   javac Dealer.java
+
+   javac TestCards.java
+
+   javac Game.java
+
+   javac Player.java
+
+   javac Simulation.java
+   java Simulation int n
